@@ -1,0 +1,7 @@
+bvets vehicle 1.00
+performancecurve=..\notch\200_notch.txt
+parameters=..\parameters\277_parameters.txt
+panel=..\panel\277_panel.txt
+sound=..\sound\277_sound.txt
+ats=..\plugins\277_plugins\DetailManager.dll
+motornoise=..\motornoise\motornoise.txt

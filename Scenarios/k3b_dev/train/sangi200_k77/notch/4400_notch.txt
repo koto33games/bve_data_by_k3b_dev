@@ -1,0 +1,15 @@
+[power]
+params=power\4400_params.csv
+force=power\4400_force.csv
+maxforce=power\4400_force.csv
+current=power\current.csv
+maxcurrent=power\current.csv
+noloadcurrent=power\current0.csv
+
+[brake]
+params=brake\params.csv
+force=brake\force.csv
+maxforce=brake\force.csv
+current=brake\current.csv
+maxcurrent=brake\current.csv
+noloadcurrent=brake\current0.csv

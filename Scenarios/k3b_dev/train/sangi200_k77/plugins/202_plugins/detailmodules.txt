@@ -1,0 +1,4 @@
+..\hokusei.dll
+Oneman.dll
+..\i_soundkey\SoundKey.dll
+..\j_soundkey\SoundKey.dll

@@ -1,0 +1,6 @@
+bvets vehicle 1.00
+performancecurve=..\notch\4400_notch.txt
+parameters=..\parameters\4401_parameters.txt
+panel=..\panel\4401_panel.txt
+sound=..\sound\4401_sound.txt
+motornoise=..\motornoise\motornoise.txt
