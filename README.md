@@ -1,4 +1,4 @@
-# 三岐鉄道200系K77編成(三重交通4400形) ver0.51
+# 三岐鉄道200系K77編成(三重交通4400形)ver0.51
 (C)2026 k3b_dev  
 主導：koto33(koto33games@gmail.com)  
 協力：k3b_dev(kunu22・Y_morikei)  
