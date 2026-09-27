@@ -1,0 +1,9 @@
+bvets station list 2.00
+
+isematsumoto,伊勢松本,,10:24:15,35,,0,0,0,,mtmt,0,0
+isekawashima,伊勢川島,10:29:10,,0,,0,0,0,,whistle2_l,0,0
+takatsuno,高角,10:32:25,,0,,0,0,0,,whistle1_l,0,0
+sakura,桜,10:36:40,,0,,0,0,0,,whistle2_l,0,0
+komono,菰野,10:42:05,,0,,0,0,0,,whistle1_l,0,0
+nakakomono,中菰野,10:45:20,,0,,0,0,0,,whistle2_r,0,0
+yunoyama,湯ノ山,10:50:20,t,0,,1,0,0,,,0,0
