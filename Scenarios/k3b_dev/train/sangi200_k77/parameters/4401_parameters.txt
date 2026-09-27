@@ -37,7 +37,7 @@ applystart=5000
 releasestart=5000
 
 [brake]
-PistonArea=0.175
+PistonArea=0.2
 
 [compressor]
 lowerpressure=660000
