@@ -1,0 +1,3 @@
+bvets sound list 2.00
+
+crs,sounds\crs.wav,8

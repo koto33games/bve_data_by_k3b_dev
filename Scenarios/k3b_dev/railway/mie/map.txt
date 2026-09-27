@@ -1,0 +1,51 @@
+bvets map 2.02
+
+structure.load('structures.txt');
+signal.load('signals.txt');
+section.setspeedlimit(0,35,);
+sound.load('sounds.txt');
+sound3d.load('sounds3d.txt');
+station.load('stations.txt');
+
+curve.setgauge(0.762);
+curve.setcenter(0.381);
+curve.setfunction(0);
+
+track['grass'].cant.setgauge(0.762);
+track['grass'].cant.setcenter(0.381);
+track['grass'].cant.setfunction(0);
+
+track['1'].cant.setgauge(0.762);
+track['1'].cant.setcenter(0.381);
+track['1'].cant.setfunction(0);
+
+track['2'].cant.setgauge(0.762);
+track['2'].cant.setcenter(0.381);
+track['2'].cant.setfunction(0);
+
+track['3'].cant.setgauge(0.762);
+track['3'].cant.setcenter(0.381);
+track['3'].cant.setfunction(0);
+
+track['4'].cant.setgauge(0.762);
+track['4'].cant.setcenter(0.381);
+track['4'].cant.setfunction(0);
+
+track['5'].cant.setgauge(0.762);
+track['5'].cant.setcenter(0.381);
+track['5'].cant.setfunction(0);
+
+track['6'].cant.setgauge(0.762);
+track['6'].cant.setcenter(0.381);
+track['6'].cant.setfunction(0);
+
+track['7'].cant.setgauge(0.762);
+track['7'].cant.setcenter(0.381);
+track['7'].cant.setfunction(0);
+
+background.change('bg');
+
+include 'map_track.txt';
+include 'map_sig.txt';
+include 'map_cable.txt';
+include 'map_crs.txt';

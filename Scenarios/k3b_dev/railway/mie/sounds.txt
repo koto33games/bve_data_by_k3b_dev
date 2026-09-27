@@ -1,0 +1,26 @@
+bvets sound list 2.00
+
+mtmt,sounds\mtmt.wav,1
+
+kwsm1,sounds\kwsm1.wav,1
+kwsm2,sounds\kwsm2.wav,1
+
+tktn1,sounds\tktn1.wav,1
+tktn2,sounds\tktn2.wav,1
+
+skr1,sounds\skr1.wav,1
+skr2,sounds\skr2.wav,1
+
+kmn1,sounds\kmn1.wav,1
+kmn2,sounds\kmn2.wav,1
+
+nkkmn1,sounds\nkkmn1.wav,1
+nkkmn2,sounds\nkkmn2.wav,1
+
+ynym1,sounds\ynym1.wav,1
+ynym2,sounds\ynym2.wav,1
+
+whistle1_l,sounds\whistle1_l.wav,1
+whistle1_r,sounds\whistle1_r.wav,1
+whistle2_l,sounds\whistle2_l.wav,1
+whistle2_r,sounds\whistle2_r.wav,1
