@@ -52,7 +52,7 @@ transparentcolor=0000ff
 layer=10
 
 [needle]
-subject=sap
+subject=bc
 location=686,719
 daytimeimage=00_panel\prs_low.bmp
 nighttimeimage=00_panel\prs_low_n.bmp
@@ -68,7 +68,7 @@ tilt = 38, 0
 naturalfreq=0
 
 [needle]
-subject=bc
+subject=bp
 location=686,719
 daytimeimage=00_panel\prs_up.bmp
 nighttimeimage=00_panel\prs_up_n.bmp

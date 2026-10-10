@@ -4,37 +4,40 @@ firstcar=m
 loadcompensating=false
 
 [cab]
-brakenotchcount=8
+brakenotchcount=2
 powernotchcount=3
 holdingspeednotchcount=3
 atscancelnotch=1
-motorbrakenotch=1
+motorbrakenotch=4
+braketext=緩メ,重ﾅﾘ,常用,非常
 
 [maincircuit]
 regenerationlimit=999
 regenerationstartlimit=999
 leverdelay=0
 
-[smee]
+[cl]
 leverdelay=0.5
 
-[sap]
-applyspeed=350
-releasespeed=250
+[er]
+applyspeed=125
+releasespeed=50
+rapidreleasespeed=1000
 
 [bp]
-applyspeed=250
-releasespeed=250
-volumeratio=20
+applyspeed=1250
+releasespeed=625
 rapidreleasespeed=1000
 
 [lockoutvalve]
 
 [bc]
-applyspeed=350
+applyspeed=500
 releasespeed=250
-applystart=5000
-releasestart=5000
+applystart=0
+applystop=0
+releasestart=0
+releasestop=0
 
 [brake]
 PistonArea=0.2
