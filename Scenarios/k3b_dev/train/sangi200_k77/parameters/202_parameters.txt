@@ -7,7 +7,7 @@ loadcompensating=false
 brakenotchcount=8
 powernotchcount=3
 atscancelnotch=1
-motorbrakenotch=1
+motorbrakenotch=10
 
 [maincircuit]
 regenerationlimit=999

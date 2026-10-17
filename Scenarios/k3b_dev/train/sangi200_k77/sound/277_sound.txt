@@ -7,6 +7,7 @@ bvets vehicle sound 3.01
 3=277_sound\run3.wav
 
 [flange]
+0=00_sound\flange0.wav
 
 [motor]
 0=00_sound\motor0.wav

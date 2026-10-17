@@ -1,0 +1,4 @@
+bvets signal aspects list 2.00
+
+2,2r,2y,2y
+r,rr,ry,ry

@@ -1,0 +1,11 @@
+bvets vehicle sound 3.01
+
+[run]
+0=run0.wav
+3=run3.wav
+
+[flange]
+0=flange0.wav
+
+[joint]
+0=point.wav

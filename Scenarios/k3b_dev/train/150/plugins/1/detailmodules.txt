@@ -1,0 +1,2 @@
+..\notchnumber.dll
+..\soundkey.dll

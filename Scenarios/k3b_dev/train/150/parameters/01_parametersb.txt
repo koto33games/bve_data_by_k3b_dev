@@ -1,0 +1,49 @@
+﻿bvets vehicle parameters 2.01
+
+firstcar = m
+loadcompensating = false
+
+[cab]
+brakenotchcount = 8
+powernotchcount = 5
+holdingspeednotchcount = 5
+atscancelnotch = 3
+motorbrakenotch = 1
+braketext = 緩,1/9,2/9,3/9,4/9,5/9,6/9,7/9,8/9,全
+powertext = 切,+50,+40,+30,+20,+10
+holdingspeedtext = 切,-50,-40,-30,-20,-10
+
+[maincircuit]
+regenerationlimit = 200
+leverdelay = 1
+
+[ecb]
+maximumpressure = 400000
+leverdelay = 0
+
+[lockoutvalve]
+maximumpressure = 400000
+regenerationlimit = 200
+
+[bc]
+applyspeed = 500
+releasespeed = 250
+
+[brake]
+pistonarea = 0.125
+
+[dynamics]
+motorcarweight = 23450
+trailerweight = 8000
+motorcarcount = 1
+trailercount = 9
+carlength = 7
+
+[passengers]
+capacity = 11
+bodyweight = 55
+
+[viewpoint]
+x = 0.725
+y = 2.85
+z = 0

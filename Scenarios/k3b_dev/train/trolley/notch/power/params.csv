@@ -1,0 +1,13 @@
+bvets vehicle performance table 2.00:shift_jis,
+#,
+breakerdelay_on,0
+breakerdelay_off,0
+currentreducingtime,0
+jerkregulation_up,0
+jerkregulation_down,0
+requirednotch_up,2
+requirednotch_down,0
+stepdelay_up,0
+stepdelay_down,0
+currentlimitingvalue_empty,0
+currentlimitingvalue_full,0

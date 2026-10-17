@@ -1,0 +1,3 @@
+..\notchnumber.dll
+..\soundkey.dll
+..\..\..\..\generalatsplugin\rock_on\shock.dll
