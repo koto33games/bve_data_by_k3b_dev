@@ -1,5 +1,0 @@
-bvets vehicle 1.00
-performancecurve=notch\notch.txt
-parameters=parameters.txt
-panel=panel.txt
-sound=sound.txt
