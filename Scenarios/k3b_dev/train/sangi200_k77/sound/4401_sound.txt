@@ -7,6 +7,7 @@ bvets vehicle sound 3.01
 3=202_sound\run3.wav
 
 [flange]
+0=00_sound\flange0.wav
 
 [motor]
 0=00_sound\motor0.wav
@@ -15,9 +16,9 @@ bvets vehicle sound 3.01
 0=00_sound\point.wav
 
 [brake]
-bcreleasehigh=202_sound\air.wav
-bcrelease=202_sound\air.wav
-bcreleasefull=202_sound\air.wav
+bcreleasehigh=4401_sound\air.wav
+bcrelease=4401_sound\air.wav
+bpdecomp=4401_sound\bp.wav
 emergency=00_sound\emrbrake.wav
 
 [compressor]
@@ -38,9 +39,9 @@ closeright=202_sound\doorclsr.wav
 
 [brake handle]
 max=00_sound\brmax.wav
-apply=00_sound\brup.wav
-applyfast=00_sound\brup.wav
-min=00_sound\brrel.wav
+apply=4401_sound\brup.wav
+release=4401_sound\brdown.wav
+min=4401_sound\brrel.wav
 
 [reverser]
 on=00_sound\rev2.wav
