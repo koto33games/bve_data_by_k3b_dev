@@ -59,6 +59,6 @@ max=00_sound\mcfull.wav
 noise=202_sound\loop.wav
 shoe=00_sound\rub.wav
 
-[polotlamp]
+[pilotlamp]
 on=202_sound\leave.wav
 off=202_sound\leave.wav

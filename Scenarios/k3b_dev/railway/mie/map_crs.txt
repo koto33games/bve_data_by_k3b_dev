@@ -1,9 +1,5 @@
 bvets map 2.02
 
-10008;
-	structure['rail_crs1_2'].put0('0',3,5);
-	structure['rail_crs1_2'].put0('1',3,5);
-
 10170.5;
 	structure['crs_r'].put0('0',0,5);
 	sound3d['crs'].put(2.7,4);
@@ -77,20 +73,26 @@ bvets map 2.02
 	sound3d['crs'].put(-2.7,4);
 
 11621.5;
-	structure['crs_r'].put0('0',0,5);
-	sound3d['crs'].put(2.7,4);
+	structure['crs_r'].put0('1',0,5);
+	sound3d['crs'].put(6.5,4);
 11622;
 	structure['rail_crs1_2'].put0('0',3,5);
+	structure['rail_crs1_2'].put0('1',3,5);
+	structure['between_crs1_2'].putbetween('0','1',3);
 	structure['bar2_l1'].put0('0',1,5);
 11624;
-	structure['bar2_r2'].put0('0',1,5);
+	structure['bar2_r2'].put0('1',1,5);
 11624.5;
 	structure['crs_l'].put0('0',0,5);
 	sound3d['crs'].put(-2.7,4);
 
+11633;
+	structure['rail_crs1_2'].put0('1',3,5);
+
 12468;
 	structure['rail_crs1_2'].put0('0',3,5);
 	structure['rail_crs1_2'].put0('1',3,5);
+	structure['between_crs1_2'].putbetween('0','1',3);
 
 12605.5;
 	structure['crs_l'].put0('0',0,5);
@@ -134,6 +136,7 @@ bvets map 2.02
 13889;
 	structure['rail_crs1_2'].put0('0',3,5);
 	structure['rail_crs1_2'].put0('1',3,5);
+	structure['between_crs1_2'].putbetween('0','1',3);
 
 13942;
 	structure['rail_crs1_5'].put0('0',3,5);
@@ -229,6 +232,7 @@ bvets map 2.02
 15909;
 	structure['rail_crs1_2'].put0('0',3,5);
 	structure['rail_crs1_2'].put0('1',3,5);
+	structure['between_crs1_2'].putbetween('0','1',3);
 
 15963.5;
 	structure['crs_r'].put0('0',0,5);
@@ -321,8 +325,12 @@ bvets map 2.02
 	structure['crs_r'].put0('0',0,5);
 	sound3d['crs'].put(2.7,4);
 
-18488;
+18560;
 	structure['rail_crs1_2'].put0('0',3,5);
+	structure['rail_crs1_2'].put0('1',3,5);
+	structure['rail_crs1_2'].put0('2',3,5);
+	structure['between_crs1_2'].putbetween('2','1',3);
+	structure['rail_crs1_2'].put0('4',3,5);
 
 18623;
 	structure['rail_crs1_5'].put0('0',3,5);
@@ -520,11 +528,13 @@ bvets map 2.02
 22479;
 	structure['rail_crs1_5'].put0('0',3,5);
 	structure['rail_crs1_5'].put0('2',3,5);
+	structure['between_crs1_5'].putbetween('2','0',3);
 	structure['bar5_l1'].put0('2',1,5);
 	structure['bar5_r1'].put0('0',1,5);
 22484;
 	structure['rail_crs1_2'].put0('0',3,5);
 	structure['rail_crs1_2'].put0('2',3,5);
+	structure['between_crs1_2'].putbetween('2','0',3);
 22486;
 	structure['bar2_l2'].put0('2',1,5);
 	structure['bar2_r2'].put0('0',1,5);
@@ -537,3 +547,4 @@ bvets map 2.02
 22578;
 	structure['rail_crs1_2'].put0('0',3,5);
 	structure['rail_crs1_2'].put0('1',3,5);
+	structure['between_crs1_2'].putbetween('1','0',3);

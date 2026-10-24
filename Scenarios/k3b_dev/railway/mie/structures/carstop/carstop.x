@@ -156,7 +156,7 @@ Mesh  {
    0.000000;0.000000;0.000000;;
 
    TextureFilename  {
-    "azss2.png";
+    "carstop.png";
    }
   }
 
