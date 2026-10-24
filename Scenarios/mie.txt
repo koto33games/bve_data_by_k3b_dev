@@ -1,10 +1,10 @@
 ﻿bvets scenario 2.00
 
-title=(内部→)伊勢松本→湯ノ山
+title=伊勢松本→湯ノ山
 route=k3b_dev\railway\mie\map.txt
 routetitle=三重交通三重線
 vehicle=k3b_dev\train\sangi200_k77\vehicle\4401_vehicle.txt
-vehicletitle=三重交通4400形モ4401
+vehicletitle=三重交通モ4400形モ4401
 author=k3b_dev
 image=k3b_dev\railway\mie\img.bmp
-comment=ver.0.51
+comment=ver.1.00
